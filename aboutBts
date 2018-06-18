@@ -8,7 +8,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="방탄소년단 소개">
     <meta name="author" content="yukyung">
-    <link href="/bts_page/aboutBTS" rel="stylesheet" type="text/css">
     <style type="text/css">
         body {
             color: #ffffff;
@@ -54,8 +53,9 @@
 <body>
     <div id="page">
         <div id="logo">
-            <img class="img-fluid mb-5 d-block mx-auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/BTS_Wordmark.svg/800px-BTS_Wordmark.svg.png" width="150" height="80" alt="">
-        </div>
+            <a href="https://oyk4017.github.io/btspage/.><img class="img-fluid mb-5 d-block mx-auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/BTS_Wordmark.svg/800px-BTS_Wordmark.svg.png" width="150" height="80" alt="">
+            </a>
+       </div>
         <hr /> 
         </br>
      
